@@ -14,3 +14,9 @@ The compiler then test the condition if the number when divided by 2 gives zero 
 4)task2-assignment-2:-
 here the compiler takes in an number from the user.
 The compiler then applies a for loop from the range 0 to a+1. Here first the condition is checkedif the condition is true then the number is added to the sum. then 1 is added to that number and then the new number is used to check the condition if satisified then the loop repeats till a then when the new number becomes a+1 it exits the loop. Then using this sum we print the  sum.
+
+5)task1-assignment-3:-
+here the compiler accepts a value from user and then. here reccursion is the concept used to find the factoril.
+
+6)task2-assignment-3:-
+here the compiler imports math module then use them to to find the square root,natural log and sine of thethe input value from the user.
