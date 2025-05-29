@@ -20,3 +20,10 @@ here the compiler accepts a value from user and then. here reccursion is the con
 
 6)task2-assignment-3:-
 here the compiler imports math module then use them to to find the square root,natural log and sine of thethe input value from the user.
+
+7)task1-assigment-5:-
+here the dictionary is first created with the names of students as the key and marks as value. Then the name is accepted from the user.then the compiler search for the exact value. if codition is applied to check wheater the name exists if yes then the marks of the student is printed.else the compiler prints that the data does not exist in the record.
+
+8)task2-assignment-5:-
+here the list is created and then using this list a new list is extracted.The new extracted list is then copied to a new reverse_list and the list is then reversed.
+the lists are then printed/displayed to the user
