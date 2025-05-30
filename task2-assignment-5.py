@@ -6,5 +6,6 @@ extracted_list = my_list[0:5]
 reverse_list=extracted_list
 reverse_list.reverse()
 #printout the list
+print("original_list: ",my_list)
 print("extracted_list:",extracted_list)
 print("reversed_list:",reverse_list)
