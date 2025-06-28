@@ -27,3 +27,13 @@ here the dictionary is first created with the names of students as the key and m
 8)task2-assignment-5:-
 here the list is created and then using this list a new list is extracted.The new extracted list is then copied to a new reverse_list and the list is then reversed.
 the lists are then printed/displayed to the user
+
+9)task1-assignment-4:-
+here we use try block to check if any exception occurs...if yes then we use excpt <error/exception type>: and the error message to be printed
+then we use finally block to explain what is this exception about.
+here in try block we open,read and close the file.we open the sample.txt file, then read from the file and print the same for the user and later close the file.
+
+10)task2-assignment-4:-
+first we open a file"output.txt"in write mode add some data through f.write(text) and then close the file
+then we again open the file in append mode and the data entered from the user is add to the file and then the file is closed
+later again the file is opened in read mode and the data is extracted from file and printed to the user to see then the the file is closed..
