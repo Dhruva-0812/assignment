@@ -37,3 +37,11 @@ here in try block we open,read and close the file.we open the sample.txt file, t
 first we open a file"output.txt"in write mode add some data through f.write(text) and then close the file
 then we again open the file in append mode and the data entered from the user is add to the file and then the file is closed
 later again the file is opened in read mode and the data is extracted from file and printed to the user to see then the the file is closed..
+
+11)task-assignment-6:-
+we import tkinter, create basic window,give it title and size
+create add,subtract,multiply and divide(with error handling) function.
+create display using Entry position it at top and give it a basic/default0 as value.
+create press,clear and equal function.
+create buttons with the help of list and loops then finally run the mainloop.
+#this is only applicable to perform operations on two numbers/variable.
